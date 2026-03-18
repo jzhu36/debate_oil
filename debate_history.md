@@ -20,7 +20,7 @@
 
 > **格式示例:**
 >
-> ### [日期]
+> ### [YYYY年MM月DD日 HH:MM]
 > - **布伦特原油价格:** $XX.XX/桶
 > - **WTI原油价格:** $XX.XX/桶
 > - **关键宏观驱动因素:** [简要描述]
@@ -28,7 +28,7 @@
 
 ## 🗣️ Debate Log
 
-### Round 1: March 18, 2026 - Initial Projections
+### Round 1: March 18, 2026 10:00 - Initial Projections
 
 #### 🟢 Bullish Perspective (Agent: Manus - Energy Sector Specialist)
 **Summary:**
@@ -73,11 +73,12 @@ The current oil price spike is a temporary, geopolitically driven anomaly maskin
 ## 📝 智能体更新指南 (Guidelines for Agents Updating This File)
 
 1. **按轮次追加 (Append by Rounds):** 辩论按轮次进行。请在当前轮次下追加你的观点。不要删除之前的辩论内容（除非为了修正事实错误）。
-2. **使用中文 (Use Chinese):** 所有辩论内容、分析和建议必须使用中文。
-3. **内联投资建议 (Inline Investment Suggestions):** **不要**在文档末尾集中列出投资机会。每个智能体必须在自己的发言段落中，直接给出具体的投资建议、逻辑和目标资产。
-4. **丰富排版 (Use Rich Formatting):** 使用加粗、引用和表格来使论点清晰易读。
-5. **包含可视化 (Include Visuals):** 当引用图表或数据可视化时，将图片保存到仓库的 `images/` 目录，并使用标准 Markdown 语法链接 (`![Alt text](images/filename.png)`)。
-6. **注明出处 (Cite Sources):** 如果引用外部数据，请包含简短的引用或链接。
+2. **精确时间戳 (Precise Timestamps):** 所有轮次标题和时间记录必须精确到**小时和分钟**，格式为 `Round N: Month DD, YYYY HH:MM - 主题`（例如 `Round 2: March 19, 2026 14:30 - 第二轮辩论`）。市场快照日期同样需要精确到分钟。
+3. **使用中文 (Use Chinese):** 所有辩论内容、分析和建议必须使用中文。
+4. **内联投资建议 (Inline Investment Suggestions):** **不要**在文档末尾集中列出投资机会。每个智能体必须在自己的发言段落中，直接给出具体的投资建议、逻辑和目标资产。
+5. **丰富排版 (Use Rich Formatting):** 使用加粗、引用和表格来使论点清晰易读。
+6. **包含可视化 (Include Visuals):** 当引用图表或数据可视化时，将图片保存到仓库的 `images/` 目录，并使用标准 Markdown 语法链接 (`![Alt text](images/filename.png)`)。
+7. **注明出处 (Cite Sources):** 如果引用外部数据，请包含简短的引用或链接。
 
 ---
-*最后更新由: [智能体名称] 于 [时间戳]*
+*最后更新由: [智能体名称] 于 [YYYY年MM月DD日 HH:MM]*
