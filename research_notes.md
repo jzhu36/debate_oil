@@ -127,3 +127,109 @@
 - Global observed oil stocks: 8.21 billion barrels in Jan 2026 (highest since Feb 2021)
 - Demand destruction effects became measurable within weeks
 - IEA reduced 2026 global oil demand growth forecast by 210K bpd to 640K bpd
+
+## NEW FINDINGS - Round 6 Research (March 18, 2026 ~21:00 UTC)
+
+### World Bank "Great Oil Glut" Report (March 16, 2026)
+- Source: FinancialContent/MarketMinute
+- Global commodity prices to hit SIX-YEAR LOW in 2026
+- Oil surplus of 1.2 mb/d throughout 2026 (only reached twice before: 1998 Asian crisis, 2020 COVID)
+- Brent forecast to average $60/bbl in 2026
+- 7% decline in commodity prices in 2026 (following similar drop in 2025)
+- ExxonMobil, Chevron face squeezed margins on projects greenlit at $90
+- China's service economy transition + EV adoption permanently eroding demand
+- Market volatility at 50-year high
+- Smaller producers unable to survive at $60 Brent will be absorbed
+
+### Moody's Recession Warning (Morningstar/MarketWatch, March 17, 2026)
+- Mark Zandi: "Recession is once again a serious threat"
+- Moody's ML model: 49% recession probability BEFORE Iran conflict
+- Next reading expected 50%+ probability
+- Q4 2025 GDP growth just 0.7% - very weak
+- Every recession since WWII (except COVID) preceded by oil price jump
+- Yardeni Research: market meltdown forecast raised to 35% from 20%
+- Investment banks maintain recession probabilities at 30-40%
+- Polymarket: 31% chance of recession before end of 2026
+
+### WTI Head & Shoulders - MarketPulse/OANDA (March 17, 2026)
+- FIRST bearish pattern since beginning of the War
+- H&S forming on 2H chart
+- Measured move target: $85/bbl
+- Pattern invalidated only above $99.04
+- Key support: 2H 50-MA at $95.19 (bearish below)
+- H&S Neckline at $92.64
+- War turning point: key Iranian regime figures eliminated
+- US-Israel coalition expressing plans to securitize Strait of Hormuz
+- Al Jazeera acknowledging US-Israel operation working
+
+### FOMC Hawkish Hold Preview (MarketPulse, March 17, 2026)
+- Fed expected to deliver "hawkish hold" March 18
+- SEP to show higher inflation, lower GDP
+- One expected 2026 rate cut could be pushed to 2027
+- February jobs "train wreck": payrolls fell ~92,000, unemployment 4.4%
+- PCE inflation stuck near 3%
+- "Stagflationary" shift in projections
+- Risk triangle for equities: elevated yields + oil margin squeeze + geopolitical uncertainty
+- Political pressure from Trump to cut rates, but Fed maintaining independence
+- Higher-for-longer rates = headwind for energy stocks
+
+### IEA March 2026 Report - Additional Details
+- Demand growth cut to 640 kb/d (from 850 kb/d) - down 210 kb/d
+- Flight cancellations + LPG disruptions curbing demand by ~1 mb/d in March/April
+- Global observed oil stocks: 8,210 mb in January (highest since Feb 2021)
+- Supply projected to rise 1.1 mb/d in 2026 (non-OPEC+ accounting for entire increase)
+
+### Bloomberg: SPR Release Reshaping Futures Curve (March 17, 2026)
+- Trump's oil reserve release already reshaping futures curve
+- Traders selling nearby months, positioning for SPR flows
+- Emergency releases taming crude futures gains
+
+### FX Daily Report WTI Analysis (March 18, 2026)
+- WTI flashing bearish signals on short-term chart
+- Price broken below rising trend line
+- Bearish momentum building
+
+### Key New Evidence for Round 6 Debate:
+1. World Bank "Great Oil Glut" - 1.2 mb/d surplus, $60 Brent, six-year commodity low
+2. Moody's 50%+ recession probability - economy was already weak before oil shock
+3. H&S pattern = first bearish technical signal since war began, targeting $85
+4. FOMC hawkish hold = rate cuts delayed to 2027, stagflation risk
+5. War turning point - key Iranian figures eliminated, Hormuz securitization plans
+6. IEA demand cut to 640 kb/d + SPR releases reshaping futures curve
+7. February jobs disaster (payrolls -92K, unemployment 4.4%) = pre-existing weakness
+
+### Energy Stock Divergence (Stocktwits, March 18, 2026)
+- Crude oil rally fails to lift energy stocks
+- USO bucked the trend, but most oil stocks slipped despite oil climbing above $100
+- Higher oil prices reinforce "higher for longer" Fed outlook, delaying rate cuts
+- Mark Zandi (Moody's) warned rising oil pushes recession odds higher
+- If oil remains elevated for weeks rather than months, recession difficult to avoid
+- Higher energy costs hit consumers quickly
+
+### The Hill: Iran conflict gas prices and recession risk
+- Average US gas price hit $3.60/gallon (up from $2.94)
+- Mark Wolfe (NEADA): $100/bbl means average household pays $198/month on gas
+- Low-income families cutting back on medicine, taking on credit card debt
+- MIT Prof Christopher Knittel: If conflict continues 1-2 months, >50% chance of recession
+- Oxford Economics: Worst-case $140/bbl for 2 months could trigger mild recession
+- High fuel costs hit diesel (goods delivery) -> inflation
+
+### EV Demand Destruction (Electrek, March 17, 2026)
+- Global EV fleet avoided 1.7 million barrels/day of oil consumption in 2025
+- Equals 70% of Iran's exports through Strait of Hormuz
+- 79% of world population lives in oil-importing countries
+- Replacing transport oil with EVs could cut fossil fuel imports by 1/3
+- 39 countries have EV sales share >10%
+- Vietnam 38%, Thailand 21%, Indonesia 15%
+- China >50% of new car sales in 2025
+- China saving $28B/year at $80/bbl
+
+### Argument Structure for Round 6:
+1. **The Technical Breakdown is Real:** WTI has formed a Head & Shoulders pattern on the 2H chart, the first bearish signal since the war began. Price broke below the rising trend line. The measured target is $85/bbl. The "geopolitical premium" is already fading as key Iranian figures were eliminated and US-Israel securitization of Hormuz progresses.
+2. **The "Great Oil Glut" & Fundamental Oversupply:** The World Bank just warned of a 1.2 mb/d structural surplus in 2026, predicting a six-year low in commodity prices and $60 Brent. The IEA cut its 2026 demand growth forecast to a mere 640 kb/d due to economic fallout and flight cancellations.
+3. **Macro Headwinds & Recession Certainty:** The Fed's "hawkish hold" guarantees higher-for-longer rates. Moody's and MIT economists warn that a 50%+ recession probability is imminent if oil stays high for just weeks. This is causing a "量价背离" (price-volume divergence) where oil stocks are falling despite $100 crude, signaling smart money is dumping energy equities.
+4. **Structural EV Demand Destruction:** EVs permanently erased 1.7 mb/d of demand in 2025 (70% of Iran's exports). China's EV penetration crossed 50%.
+5. **Investment Recommendations:**
+   - Buy **SCO** (ProShares UltraShort Bloomberg Crude Oil) to capitalize on the drop to $85.
+   - Short **XOM** and **CVX** as their margins will be crushed by the coming $60 Brent environment.
+   - Buy Put Options on **XLE** as the broader market prices in stagflation and recession risks.
