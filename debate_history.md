@@ -32,6 +32,13 @@
 - **关键宏观驱动因素:** 伊朗有效封锁霍尔木兹海峡，导致油轮流量暴跌至战前10%以下。IEA释放4.119亿桶战略储备未能显著平抑油价。美国能源生产商因不受中东断供影响，迎来巨额现金流预期，机构全面上调能源股目标价。
 - **更新者:** Manus (Energy Sector Specialist)
 
+
+### [2026年03月18日 18:00]
+- **布伦特原油价格:** $102.81/桶
+- **WTI原油价格:** $96.21/桶
+- **关键宏观驱动因素:** 伊朗扩大对中东能源基础设施的打击（包括阿联酋Shah气田和富查伊拉港）。霍尔木兹海峡实现“零通行”，欧洲盟友拒绝加入美国的护航联盟。高盛等投行大幅上调油价预期，市场正计价长期的供应中断。
+- **更新者:** Manus (Energy Sector Specialist)
+
 ## 🗣️ Debate Log
 
 ### Round 1: March 18, 2026 10:00 - Initial Projections
@@ -177,5 +184,33 @@ The current oil price spike is a temporary, geopolitically driven anomaly maskin
 [30] Stocktwits (March 18, 2026). "Crude Oil Rally Fails To Lift Energy Stocks: Analysts Warn Oil Spike Could Delay Rate Cuts, Lift Recession Odds."
 [31] First Trust Advisors (March 17, 2026). "War, Oil, and Recession."
 
+
+### Round 5: March 18, 2026 18:00 - 供应中断长期化与看涨期权策略 (Prolonged Supply Disruption & Bullish Options Strategies)
+
+#### 🟢 看涨观点 (Agent: Manus - Energy Sector Specialist)
+**摘要 (Summary):**
+空头阵营完全低估了地缘政治冲突的广度和持久性，误将技术面回调视为基本面恶化。当前局势已演变为一场针对中东核心能源基础设施的全面打击。伊朗不仅封锁了霍尔木兹海峡（零通行状态），更通过无人机袭击了阿联酋的Shah气田（占该国20%天然气供应）和关键的富查伊拉(Fujairah)原油出口终端。随着德国、日本等盟友明确拒绝加入美国的护航联盟，霍尔木兹海峡的瘫痪已成为长期现实。华尔街对此做出了迅速反应：高盛将2026年第四季度布伦特和WTI原油预测分别上调至$71和$67，并预计3-4月布伦特均价将高达$98/桶；渣打银行更是将2026年布伦特均价上调至$85.50/桶。在原油供给端面临“全球市场历史上最大中断”的背景下，美国能源巨头和纯本土生产商正迎来前所未有的盈利扩张期，机构正密集上调它们的评级和目标价。这为做多美国能源股和相关ETF提供了极具吸引力的机会。
+
+**投资建议 (Investment Recommendations):**
+面对长期化的供应中断和华尔街的评级上调潮，强烈建议采取以下看涨策略：
+1. **买入本土纯粹生产商 (Buy Pure-Play Domestic Producers):** 建议强力买入 **Chord Energy (CHRD)** 和 **EOG Resources (EOG)**。Chord Energy作为威利斯顿盆地(Williston Basin)的纯粹生产商，刚被美国银行(BofA)将目标价上调至$140，富国银行(Wells Fargo)也给出$136目标价。在当前$96/桶的WTI油价下，其基于$64/桶假设的7亿美元自由现金流指引显得极其保守。EOG同样获得了瑞银(UBS)和巴克莱的上调。
+2. **重仓具有高股息的能源巨头 (Overweight High-Dividend Energy Majors):** 建议买入 **ExxonMobil (XOM)** 和 **Phillips 66 (PSX)**。XOM在$100/桶的油价下不仅享有巨大的现金流顺风，其股价也获得了Piper Sandler（目标价$186）和巴克莱（目标价$163）的激进上调。作为炼油巨头，PSX也被瑞穗(Mizuho)将目标价上调至$170。
+3. **执行USO高胜率看涨期权价差 (Execute High-Probability USO Call Spreads):** 建议针对 **United States Oil Fund (USO)** 构建看涨期权价差（Call Spreads）。期权市场数据显示，USO的30天隐含波动率偏度(Skew)处于第97个百分位，表明市场正极度看涨。近日市场上已出现大量买入115/125行权价的USO看涨期权价差的大单交易，跟随聪明资金做多具有极高的风险回报比。
+
+**关键证据 (Key Evidence):**
+- **基础设施遭遇系统性打击 (Systemic Infrastructure Attacks):** 伊朗无人机袭击了阿联酋的Shah气田和富查伊拉(Fujairah)石油工业区。富查伊拉是阿联酋绕过霍尔木兹海峡的唯一原油出口终端，袭击导致其装载量骤降66%，实质上切断了海湾地区最后的出口希望。此外，欧洲多国（德国、意大利等）和日本拒绝了美国的护航要求，航运危机无解。[32] [33]
+- **华尔街全面上调油价预期 (Wall Street Hikes Oil Forecasts):** 高盛警告危机将远超预期，将Q4布伦特和WTI预测上调至$71和$67，并预计短期内布伦特均价维持在$98/桶。渣打银行将2026年布伦特均价上调至$85.50/桶。花旗、汇丰和瑞银等也同步大幅上调了各季度的油价预测。[34] [35]
+- **能源股评级密集上调 (Flurry of Energy Stock Upgrades):** 华尔街机构正在对美国能源股进行重新定价。Piper Sandler将XOM目标价上调至$186，指出2026年原油供需平衡将比预期收紧200万桶/日。BofA将CHRD目标价上调至$140，瑞银将EOG目标价上调至$149，反映了美国本土生产商在危机中的巨大相对优势。[36] [37]
+- **期权市场发出强烈看涨信号 (Bullish Options Market Signals):** USO的期权数据显示极端的看涨情绪，30天隐含波动率偏度达到97%。市场中出现了数千份看涨期权价差合约的买单，交易员们正投入数百万美元押注USO在中期内突破$125，这与空头所谓的“动能衰竭”形成鲜明对比。[38]
+
+**参考文献 (References):**
+[32] Morningstar / Dow Jones (March 17, 2026). "Oil Holds Above $100 as Iran Escalates Attacks Against Key Infrastructure."
+[33] West Coast Shipping (March 17, 2026). "Strait of Hormuz Crisis Day 18: Zero Transits, Carriers Reroute to Cape."
+[34] TheStreet / Goldman Sachs (March 12, 2026). "Goldman Sachs resets oil price target for rest of 2026."
+[35] OilPrice.com / Standard Chartered (March 17, 2026). "Standard Chartered Predicts Oil Prices Will Remain Higher For Longer."
+[36] Intellectia.AI (March 17, 2026). "Crude Oil Prices Surge, Oil Stocks Perform Strongly."
+[37] MarketBeat (March 17, 2026). "Chord Energy Hits New 12-Month High on Analyst Upgrade."
+[38] MarketChameleon (March 12, 2026). "USO Surges 9.14%: High-Volume Call Spread Buyers Post 10.6% Gain as Bullish Technicals Align."
+
 ---
-*最后更新由: Manus (Macro Economist & Short-Seller) 于 2026年03月18日 16:00*
+*最后更新由: Manus (Energy Sector Specialist) 于 2026年03月18日 18:00*
